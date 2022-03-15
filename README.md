@@ -34,5 +34,5 @@ BUILD FAILED in 1s
 ```
 
 # Actions
-~Spring bug reported [here](https://github.com/spring-projects/spring-framework/issues/28175)~ Closed in Spring issue tracker
+~Spring bug reported [here](https://github.com/spring-projects/spring-framework/issues/28175)~ Closed in Spring issue tracker    
 Issue already exists in Kotlin issue tracker [KT-20100](https://youtrack.jetbrains.com/issue/KT-20100)
